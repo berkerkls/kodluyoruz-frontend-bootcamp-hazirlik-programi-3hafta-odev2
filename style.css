@@ -1,0 +1,103 @@
+body {
+    margin: 0px;
+    font-family: Nunito, sans-serif;
+    font-size: 1rem;
+    letter-spacing: -0.04em;
+    color: var(--dark-mode-color);
+}
+.container {
+    display: block;
+    text-align: center;
+    width: 1000px;
+    float: left;
+    margin-left: 280px;
+}
+#inputw {
+    width: 200px;
+}
+
+div {
+    text-align: center;
+}
+.box {
+    display: block;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.searchb {
+    width: 400px;
+}
+.leftbox {
+    padding-top: 10px;
+    background-color: rgb(8, 185, 185);
+    width: 450px;
+    height: 80px;
+    float: left;
+}
+.leftbox2 {
+    padding-top: 10px;
+    background-color: rgb(12, 240, 240);
+    width: 301px;
+    height: 80px;
+    float: left;
+    margin-right: 10px;
+    
+}
+.leftbox3 {
+    padding-top: 10px;
+    background-color: rgb(8, 218, 218);
+    width: 150px;
+    height: 80px;
+    float: left;
+    margin-right: 10px;
+    
+}
+
+.bgcolor-green {
+    background-color: green;
+}
+
+input {
+    width: 350px;
+}
+
+.bgcolor-red {
+    background-color: red;
+}
+.bgcolor-yellow {
+    background-color: yellow;
+}
+
+p {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.buttond {
+    width: 920px;
+    display: block;
+    text-align: center;
+    margin-bottom: 0px;
+    background-color: rgb(202, 202, 202);
+    margin-bottom: 5px;
+}
+.container1 {
+    width: 920px;
+    background-color: rgb(202, 202, 202);
+    margin-left: 280px;
+    
+}
+nav {
+    text-align: center;
+}
+.footerbottom {
+    display: block;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 500px;
+    width: 100%;
+    border-top: 1px solid white;
+}
